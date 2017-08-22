@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Anna Raciborska</title>
+ <div class="contact">
+   <p>
+     annakr@comcast.net <br>
+	 Redmond, WA <br>
+     (425) 233-1826 </p>
+</div>
+</head>
+<body>
+
+<div class="summary">
+  <p>
+MULTILINGUAL multicultural PROBLEM SOLVER
+
+fluent in ENGLISH, FRENCH, and POLISH
+
+Content creator with EXPERT COMMUNICATION and writing skills
+
+EXPERIENCED administrator, thriving in fast paced environments
+
+Confident, CREATIVE, and EFFICIENT
+
+naturally oriented to relate to people of all kinds
+</p>
+</div>
+
+<div class="education">
+<h1>EDUCATION</h1>
+  <ul>
+*  <li>Bachelor of Arts in Communication, University of Puget Sound, Tacoma, WA, 2004
+
+*<li>Brevet des colleges (International Baccalaureate), College Marie De France, Montreal, QC, Canada, 1997
+  </p>
+
+
+<h2>Additional coursework</h2>
+  <ul>
+*   <li>Business Strategy Certificate, University of Denmark, 2017</li>
+
+*   <li>Project Management Certificate, UC Irvine, 2017</li>
+
+*   <li>Technical Writing Certificate, Bellevue University, 2015</li>
+
+*   <li>Foundations of Online Teaching Certificate, UC Irvine, 2014</li>
+
+*   <li>Primary Essentials Certificate, British Council, 2013</li>
+
+*   <li>TESOL (Teaching English to Speakers of Other Languages) Certificate, Seattle University, 2011</li>
+</ul>
+</div>
+
+<div class="skills">
+  <h1>CORE SKILLS</h1>
+    <ul>
+  <p>Curriculum development, Mentoring and Training, Technical Writing and Editing. <br>
+
+Office management, Customer relations, Problem solving, Public speaking. <br> </p>
+
+Adept in Office applications, including SharePoint and Visio, along with HTML and CSS, WordPress, wikis, FrameMaker, InDesign, and Blackboard Connect.</p>
+</ul>
+</div>
+
+<div class="experience">
+  <h1>WORK EXPERIENCE</h1>
+    <ul>
+   <li><h3>Office Manager/Executive Assistant, Samsung SDS, Seattle, WA</h3></li>                      <h4>September 2016 – April 2017 </h4><br>
+
+First Office Manager for the Samsung Cloud Native Computing Team. Built office support program from scratch, during the team's move into the historic Smith Tower. Established office provisioning, inventory management, vendor management, scheduling/calendar and travel management, and billing services. Coordinated new construction of new highly networked working and meeting spaces, within the constraints of development within a designated historical landmark.
+
+Coordinated and managed vendors, furnished and set up office, and developed new employee onboarding procedures. Coordinated logistics for marketing events and managed travel and expense reports.
+
+Enhanced office morale and productivity on a tight budget during a period of intense growth and change for the team. Realized significant savings by negotiating supply and furniture deals.
+
+Negotiated situations requiring sensitivity and discretion with company headquarters in Korea, and with other partner organizations.
+
+Coordinated well attended and successful events within the tech community.
+
+
+
+*    <li><h3>Office Administrator, Cedar Crest Academy, Redmond, WA</h3></li>                              <h4>September – December 2015 </h4><br>
+
+Office management/administration, document auditing, scheduling, calendar management, and inventory management.
+
+
+
+*    <li><h3>English Teacher, TED Koleji, Malatya/Denizli, Turkey</h3></li>                                         <h4>August 2012 - April 2015 </h4><br>
+
+Teaching, curriculum, and program development for a historically significant private school run by the Turkish Education Association.
+
+Initiated a blogging program to promote awareness of class activities and projects, measurably increasing transparency and parental involvement.
+
+Increased enrollment at Summer school program through dynamic curriculum design and improved use of digital technology. Student interest in English language learning increased by 25% after introduction of digital storytelling, animation, and creative projects.
+
+Student reading and writing abilities were measurably increased when they started at Inonu University.
+
+
+
+*    <li><h3>English Teacher and Summer Camp Leader, Olton School, Poland</h3></li>                                                     <h4>August 2012 </h4><br>
+*                                                        
+
+Curriculum design, teaching.
+
+
+
+*    <li><h3>English Teacher, Cambridge School of English, Warsaw, Poland</h3></li>                              <h4>February 2012 – July 2012 </h4><br>
+
+Curriculum design, teaching, translation.
+
+
+
+*    <li><h3>ESL Instructor, Northwest Institute of Language and Culture, Bellevue, WA</h3></li>         <h4>July 2011 – January 2012 </h4><br>
+
+Curriculum design, teaching, scheduling.
+
+
+
+*    <li><h3>French Instructor, Lango Education, Kirkland, WA</h3></li>                                             <h4>October 2011 – December 2011 </h4><br>
+
+Curriculum design, teaching.
+
+
+
+*    <li><h3>ESL Instructor, ESS Academy, South Korea</h3></li>                                                                    <h4>July 2009 - September 2010 </h4><br>
+
+Curriculum design, teaching, marketing material editing.
+
+Co-developed English business curriculum for master level students in trade school.
+
+
+
+*    <li><h3>Administrative Assistant, Hewlett-Packard, Bellevue, WA</h3></li>                                               <h4>June – December 2008 </h4><br>
+
+Office administration, scheduling, calendar and travel management, and data entry.
+
+Measurably increased the HP Partner Management Group’s productivity by facilitating information sharing by developing SharePoint databases and an easy-to-use wiki.
+
+
+*    <li><h3>Business Service Representative, AT&T Wireless, Bothell, WA</h3></li>                       <h4>September 2004 – March 2007 </h4><br>
+
+Customer service, technical troubleshooting, sales, data entry.
+
+Maintained very high service quality levels and achieved the highest level of customer satisfaction.
+
+Became an expert at solving very complex customer problems. Consistently took ownership of customer issues and de-escalated issues with irate customers, resulting in increased customer retention.
+
+Created technical troubleshooting guides that shortened average Blackberry-related technical calls by over two minutes.
+
+
+*    <li> <h3>Private Reading Tutor/Mentor, University of Puget Sound, Tacoma, WA</h3></li>             <h4>October 2004 - May 2005 </h4><br>
+
+Provided tutoring and mentoring services to at-risk high school freshmen. Within a few months, most students were coached to test several grades higher, enabling them to be promoted to the next grade.
+
+
+*    <li><h3>Intern, Wolf Education Research Center, Winchester, ID</h3></li>                                               <h4>May 2003 - August 2003 </h4><br>
+
+Promoted wolf recovery in the continental US, by leading educational tours. Provided customer service, scheduling, facility maintenance, sales, and educational presentations.
+
+
+
+*    <li><h3>News Writer, The Trail, UPS, Tacoma, WA</h3></li>                                                                    <h4>September 2002 - May 2004 <br></h4>
+
+News investigation and writing for the UPS student newspaper; frequently featured on the front page.
+</li>
+</div>

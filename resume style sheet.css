@@ -1,0 +1,64 @@
+.title {
+	font: Algerian;
+	font-size: 30px;
+	text-align: center;
+	}
+
+.contact {
+    font: Calibri;
+	font-size: 16px;
+	text-align:center;
+	font-weight: 100;
+    }	
+
+.h1 {
+  font: Calibri;
+  font-size: 30px;
+  font-weight: bold;
+  font-style:oblique;
+}
+
+.h2 {
+  font: Calibri;
+  font-size: 25px;
+  font-weight:bold;
+}
+
+.h3 {
+  font: Calibri;
+  font-size:20px;
+  font-weight: 40;
+  font-style: italic;
+  }
+  
+.h4 {
+  Font: Calibri;
+  Font-size: 18px
+  text-align: right;
+  font-style: italic;
+  }
+  
+.education {
+	text-align: left;
+	font-weight: 100;	
+    }
+
+.skills {
+	text-align: left;
+	font-weight: 95;
+	padding: 50px;
+    }
+	
+.experience {
+	display: inline-block;
+	font: Calibri;
+	font-size: 12px
+    }	
+
+.li {
+	font: Calibri;
+	font-size: 12px;
+	padding: 50px;
+	text-align: left;
+}	
+}
